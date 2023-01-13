@@ -6,7 +6,11 @@
       "name": "Breaking Bad",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime", "Thriller"],
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -15,7 +19,9 @@
       "officialSite": "http://www.amc.com/shows/breaking-bad",
       "schedule": {
         "time": "22:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 9.3
@@ -59,7 +65,10 @@
       "name": "Chernobyl",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "History"],
+      "genres": [
+        "Drama",
+        "History"
+      ],
       "status": "Ended",
       "runtime": null,
       "averageRuntime": 70,
@@ -68,7 +77,9 @@
       "officialSite": "https://www.hbo.com/chernobyl",
       "schedule": {
         "time": "21:00",
-        "days": ["Monday"]
+        "days": [
+          "Monday"
+        ]
       },
       "rating": {
         "average": 9
@@ -112,7 +123,11 @@
       "name": "Game of Thrones",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Adventure", "Fantasy"],
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 61,
@@ -121,7 +136,9 @@
       "officialSite": "http://www.hbo.com/game-of-thrones",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -165,7 +182,10 @@
       "name": "The Wire",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime"],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -174,7 +194,9 @@
       "officialSite": "http://www.hbo.com/the-wire",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -218,7 +240,11 @@
       "name": "Firefly",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Adventure", "Science-Fiction"],
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 64,
@@ -227,7 +253,9 @@
       "officialSite": null,
       "schedule": {
         "time": "20:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -271,7 +299,11 @@
       "name": "Stargate SG-1",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Action", "Adventure", "Science-Fiction"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -280,7 +312,9 @@
       "officialSite": "http://stargate.mgm.com/view/series/1/index.html",
       "schedule": {
         "time": "20:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -324,7 +358,11 @@
       "name": "Downton Abbey",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Family", "Romance"],
+      "genres": [
+        "Drama",
+        "Family",
+        "Romance"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 71,
@@ -333,7 +371,9 @@
       "officialSite": "http://www.itv.com/downtonabbey",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -377,7 +417,11 @@
       "name": "Sherlock",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime", "Mystery"],
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
       "status": "Ended",
       "runtime": 90,
       "averageRuntime": 90,
@@ -386,7 +430,9 @@
       "officialSite": "http://www.bbc.co.uk/programmes/b018ttws",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -430,7 +476,11 @@
       "name": "Band of Brothers",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Action", "War"],
+      "genres": [
+        "Drama",
+        "Action",
+        "War"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 59,
@@ -439,7 +489,9 @@
       "officialSite": "http://www.hbo.com/band-of-brothers",
       "schedule": {
         "time": "20:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -483,7 +535,10 @@
       "name": "The Sopranos",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime"],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -492,7 +547,9 @@
       "officialSite": "http://www.hbo.com/the-sopranos",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -536,7 +593,11 @@
       "name": "Avatar: The Last Airbender",
       "type": "Animation",
       "language": "English",
-      "genres": ["Action", "Adventure", "Fantasy"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
@@ -545,7 +606,9 @@
       "officialSite": "https://www.nick.com/shows/avatar",
       "schedule": {
         "time": "11:00",
-        "days": ["Saturday"]
+        "days": [
+          "Saturday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -589,7 +652,10 @@
       "name": "Oz",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime"],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -598,7 +664,9 @@
       "officialSite": "http://www.hbo.com/oz/",
       "schedule": {
         "time": "22:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -642,7 +710,12 @@
       "name": "Attack on Titan",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Action", "Adventure", "Anime", "Fantasy"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime",
+        "Fantasy"
+      ],
       "status": "Running",
       "runtime": 25,
       "averageRuntime": 25,
@@ -651,7 +724,9 @@
       "officialSite": "http://shingeki.tv/",
       "schedule": {
         "time": "00:10",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -695,7 +770,12 @@
       "name": "One Piece",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Action", "Adventure", "Anime", "Fantasy"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime",
+        "Fantasy"
+      ],
       "status": "Running",
       "runtime": 25,
       "averageRuntime": 26,
@@ -704,7 +784,9 @@
       "officialSite": "http://www.toei-anim.co.jp/tv/onep/",
       "schedule": {
         "time": "09:30",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -751,7 +833,10 @@
       "name": "The World at War",
       "type": "Documentary",
       "language": "English",
-      "genres": ["War", "History"],
+      "genres": [
+        "War",
+        "History"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -760,7 +845,9 @@
       "officialSite": "https://yesterday.uktv.co.uk/shows/the-world-at-war/",
       "schedule": {
         "time": "21:00",
-        "days": ["Wednesday"]
+        "days": [
+          "Wednesday"
+        ]
       },
       "rating": {
         "average": 8.9
@@ -804,7 +891,11 @@
       "name": "Person of Interest",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Action", "Crime", "Science-Fiction"],
+      "genres": [
+        "Action",
+        "Crime",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -813,7 +904,9 @@
       "officialSite": "http://www.cbs.com/shows/person_of_interest/",
       "schedule": {
         "time": "22:00",
-        "days": ["Tuesday"]
+        "days": [
+          "Tuesday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -857,7 +950,11 @@
       "name": "Fargo",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Comedy", "Crime"],
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
       "status": "Running",
       "runtime": 60,
       "averageRuntime": 68,
@@ -866,7 +963,9 @@
       "officialSite": "http://www.fxnetworks.com/fargo",
       "schedule": {
         "time": "22:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -910,7 +1009,12 @@
       "name": "Death Note",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Drama", "Anime", "Thriller", "Mystery"],
+      "genres": [
+        "Drama",
+        "Anime",
+        "Thriller",
+        "Mystery"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
@@ -919,7 +1023,9 @@
       "officialSite": "http://www.j-deathnote.com/",
       "schedule": {
         "time": "13:00",
-        "days": ["Tuesday"]
+        "days": [
+          "Tuesday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -963,7 +1069,11 @@
       "name": "House",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Mystery", "Medical"],
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Medical"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -972,7 +1082,9 @@
       "officialSite": null,
       "schedule": {
         "time": "21:00",
-        "days": ["Monday"]
+        "days": [
+          "Monday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1016,7 +1128,11 @@
       "name": "Stargate Atlantis",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Action", "Adventure", "Science-Fiction"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -1025,7 +1141,9 @@
       "officialSite": "http://stargate.mgm.com/view/series/2/index.html",
       "schedule": {
         "time": "21:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1069,7 +1187,11 @@
       "name": "Rick and Morty",
       "type": "Animation",
       "language": "English",
-      "genres": ["Comedy", "Adventure", "Science-Fiction"],
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Science-Fiction"
+      ],
       "status": "Running",
       "runtime": 30,
       "averageRuntime": 30,
@@ -1078,7 +1200,9 @@
       "officialSite": "http://www.adultswim.com/videos/rick-and-morty",
       "schedule": {
         "time": "23:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1122,7 +1246,11 @@
       "name": "Gravity Falls",
       "type": "Animation",
       "language": "English",
-      "genres": ["Adventure", "Mystery", "Supernatural"],
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
@@ -1131,7 +1259,9 @@
       "officialSite": null,
       "schedule": {
         "time": "19:00",
-        "days": ["Monday"]
+        "days": [
+          "Monday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1175,7 +1305,9 @@
       "name": "The IT Crowd",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Comedy"],
+      "genres": [
+        "Comedy"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
@@ -1184,7 +1316,9 @@
       "officialSite": "http://www.channel4.com/programmes/the-it-crowd",
       "schedule": {
         "time": "22:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1228,7 +1362,11 @@
       "name": "Deadwood",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime", "Western"],
+      "genres": [
+        "Drama",
+        "Crime",
+        "Western"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -1237,7 +1375,9 @@
       "officialSite": "https://www.hbo.com/deadwood",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1281,7 +1421,9 @@
       "name": "Planet Earth",
       "type": "Documentary",
       "language": "English",
-      "genres": ["Nature"],
+      "genres": [
+        "Nature"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -1290,7 +1432,9 @@
       "officialSite": "http://www.bbc.co.uk/programmes/b006mywy",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1334,7 +1478,11 @@
       "name": "The Twilight Zone",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Science-Fiction", "Mystery", "Supernatural"],
+      "genres": [
+        "Science-Fiction",
+        "Mystery",
+        "Supernatural"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 31,
@@ -1343,7 +1491,9 @@
       "officialSite": null,
       "schedule": {
         "time": "22:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1387,7 +1537,11 @@
       "name": "The Expanse",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Science-Fiction", "Thriller", "Mystery"],
+      "genres": [
+        "Science-Fiction",
+        "Thriller",
+        "Mystery"
+      ],
       "status": "Ended",
       "runtime": null,
       "averageRuntime": 55,
@@ -1396,7 +1550,9 @@
       "officialSite": "https://www.amazon.com/dp/B07YL9WK1S/",
       "schedule": {
         "time": "",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1436,7 +1592,12 @@
       "name": "Hajime no Ippo",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Comedy", "Action", "Anime", "Sports"],
+      "genres": [
+        "Comedy",
+        "Action",
+        "Anime",
+        "Sports"
+      ],
       "status": "Ended",
       "runtime": 25,
       "averageRuntime": null,
@@ -1445,7 +1606,9 @@
       "officialSite": null,
       "schedule": {
         "time": "",
-        "days": ["Saturday"]
+        "days": [
+          "Saturday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1489,7 +1652,9 @@
       "name": "Planet Earth II",
       "type": "Documentary",
       "language": "English",
-      "genres": ["Nature"],
+      "genres": [
+        "Nature"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -1498,7 +1663,9 @@
       "officialSite": "http://www.bbc.co.uk/programmes/p02544td",
       "schedule": {
         "time": "20:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1542,7 +1709,9 @@
       "name": "Blue Planet II",
       "type": "Documentary",
       "language": "English",
-      "genres": ["Nature"],
+      "genres": [
+        "Nature"
+      ],
       "status": "Ended",
       "runtime": null,
       "averageRuntime": 58,
@@ -1551,7 +1720,9 @@
       "officialSite": "https://www.bbcearth.com/shows/blue-planet-ii",
       "schedule": {
         "time": "20:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.8
@@ -1595,7 +1766,11 @@
       "name": "Fringe",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Action", "Science-Fiction"],
+      "genres": [
+        "Drama",
+        "Action",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 61,
@@ -1604,7 +1779,9 @@
       "officialSite": null,
       "schedule": {
         "time": "21:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -1648,7 +1825,11 @@
       "name": "Battlestar Galactica",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Science-Fiction", "War"],
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "War"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 61,
@@ -1657,7 +1838,9 @@
       "officialSite": "http://www.syfy.com/battlestargalactica",
       "schedule": {
         "time": "22:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -1701,7 +1884,11 @@
       "name": "Black Mirror",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Science-Fiction", "Thriller"],
+      "genres": [
+        "Drama",
+        "Science-Fiction",
+        "Thriller"
+      ],
       "status": "Running",
       "runtime": null,
       "averageRuntime": 63,
@@ -1750,7 +1937,11 @@
       "name": "Line of Duty",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime", "Thriller"],
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
       "status": "To Be Determined",
       "runtime": 60,
       "averageRuntime": 62,
@@ -1759,7 +1950,9 @@
       "officialSite": "http://www.bbc.co.uk/programmes/p00yzlr0",
       "schedule": {
         "time": "21:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -1803,7 +1996,11 @@
       "name": "Star Trek: The Next Generation",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Action", "Adventure", "Science-Fiction"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -1812,7 +2009,9 @@
       "officialSite": null,
       "schedule": {
         "time": "",
-        "days": ["Monday"]
+        "days": [
+          "Monday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -1856,7 +2055,9 @@
       "name": "The West Wing",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama"],
+      "genres": [
+        "Drama"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -1865,7 +2066,9 @@
       "officialSite": null,
       "schedule": {
         "time": "20:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -1909,7 +2112,11 @@
       "name": "Futurama",
       "type": "Animation",
       "language": "English",
-      "genres": ["Comedy", "Adventure", "Science-Fiction"],
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Science-Fiction"
+      ],
       "status": "Running",
       "runtime": 30,
       "averageRuntime": 30,
@@ -1918,7 +2125,9 @@
       "officialSite": "http://www.cc.com/shows/futurama",
       "schedule": {
         "time": "22:00",
-        "days": ["Wednesday"]
+        "days": [
+          "Wednesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -1962,7 +2171,9 @@
       "name": "Fawlty Towers",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Comedy"],
+      "genres": [
+        "Comedy"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
@@ -1971,7 +2182,9 @@
       "officialSite": "http://www.bbc.co.uk/programmes/b006xxvg",
       "schedule": {
         "time": "20:00",
-        "days": ["Monday"]
+        "days": [
+          "Monday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2015,7 +2228,10 @@
       "name": "The Shield",
       "type": "Scripted",
       "language": "English",
-      "genres": ["Drama", "Crime"],
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 61,
@@ -2024,7 +2240,9 @@
       "officialSite": null,
       "schedule": {
         "time": "22:00",
-        "days": ["Tuesday"]
+        "days": [
+          "Tuesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2068,7 +2286,12 @@
       "name": "Hunter x Hunter",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Action", "Adventure", "Anime", "Fantasy"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime",
+        "Fantasy"
+      ],
       "status": "Ended",
       "runtime": 25,
       "averageRuntime": 25,
@@ -2077,7 +2300,9 @@
       "officialSite": "https://www.ntv.co.jp/english/pc/2011/08/hunter-x-hunter.html",
       "schedule": {
         "time": "01:30",
-        "days": ["Wednesday"]
+        "days": [
+          "Wednesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2121,7 +2346,11 @@
       "name": "Kiseijuu",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Action", "Anime", "Horror"],
+      "genres": [
+        "Action",
+        "Anime",
+        "Horror"
+      ],
       "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
@@ -2130,7 +2359,9 @@
       "officialSite": null,
       "schedule": {
         "time": "",
-        "days": ["Thursday"]
+        "days": [
+          "Thursday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2174,7 +2405,12 @@
       "name": "Steins;Gate",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Drama", "Anime", "Fantasy", "Science-Fiction"],
+      "genres": [
+        "Drama",
+        "Anime",
+        "Fantasy",
+        "Science-Fiction"
+      ],
       "status": "Ended",
       "runtime": 25,
       "averageRuntime": 25,
@@ -2183,7 +2419,9 @@
       "officialSite": "http://www.steinsgate.tv/index.html",
       "schedule": {
         "time": "02:05",
-        "days": ["Wednesday"]
+        "days": [
+          "Wednesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2236,7 +2474,9 @@
       "officialSite": "http://www.sciencechannel.com/tv-shows/how-the-universe-works/",
       "schedule": {
         "time": "22:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2280,7 +2520,11 @@
       "name": "Aerial America",
       "type": "Documentary",
       "language": "English",
-      "genres": ["Nature", "Travel", "History"],
+      "genres": [
+        "Nature",
+        "Travel",
+        "History"
+      ],
       "status": "Ended",
       "runtime": 60,
       "averageRuntime": 60,
@@ -2289,7 +2533,9 @@
       "officialSite": "https://www.smithsonianchannel.com/shows/aerial-america",
       "schedule": {
         "time": "20:00",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2333,7 +2579,12 @@
       "name": "Monster",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Drama", "Anime", "Crime", "Horror"],
+      "genres": [
+        "Drama",
+        "Anime",
+        "Crime",
+        "Horror"
+      ],
       "status": "Ended",
       "runtime": 25,
       "averageRuntime": 25,
@@ -2342,7 +2593,9 @@
       "officialSite": null,
       "schedule": {
         "time": "00:50",
-        "days": ["Tuesday"]
+        "days": [
+          "Tuesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2386,7 +2639,9 @@
       "name": "The Blue Planet",
       "type": "Documentary",
       "language": "English",
-      "genres": ["Nature"],
+      "genres": [
+        "Nature"
+      ],
       "status": "Ended",
       "runtime": null,
       "averageRuntime": 58,
@@ -2395,7 +2650,9 @@
       "officialSite": "https://www.bbcearth.com/shows/blue-planet",
       "schedule": {
         "time": "21:00",
-        "days": ["Wednesday"]
+        "days": [
+          "Wednesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2439,7 +2696,9 @@
       "name": "Frozen Planet II",
       "type": "Documentary",
       "language": "English",
-      "genres": ["Nature"],
+      "genres": [
+        "Nature"
+      ],
       "status": "Running",
       "runtime": 60,
       "averageRuntime": 60,
@@ -2448,7 +2707,9 @@
       "officialSite": "https://www.bbc.co.uk/programmes/p0cw0nb8",
       "schedule": {
         "time": "",
-        "days": ["Sunday"]
+        "days": [
+          "Sunday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2492,7 +2753,11 @@
       "name": "Vinland Saga",
       "type": "Animation",
       "language": "Japanese",
-      "genres": ["Action", "Adventure", "Anime"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime"
+      ],
       "status": "Running",
       "runtime": 30,
       "averageRuntime": 30,
@@ -2501,7 +2766,9 @@
       "officialSite": "https://vinlandsaga.jp/",
       "schedule": {
         "time": "00:10",
-        "days": ["Tuesday"]
+        "days": [
+          "Tuesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2548,7 +2815,10 @@
       "name": "LINK CLICK",
       "type": "Animation",
       "language": "Chinese",
-      "genres": ["Anime", "Fantasy"],
+      "genres": [
+        "Anime",
+        "Fantasy"
+      ],
       "status": "Running",
       "runtime": 20,
       "averageRuntime": 21,
@@ -2557,7 +2827,9 @@
       "officialSite": "https://www.bilibili.com/bangumi/media/md28230742/",
       "schedule": {
         "time": "11:00",
-        "days": ["Friday"]
+        "days": [
+          "Friday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2610,7 +2882,9 @@
       "officialSite": null,
       "schedule": {
         "time": "08:00",
-        "days": ["Wednesday"]
+        "days": [
+          "Wednesday"
+        ]
       },
       "rating": {
         "average": 8.7
@@ -2645,6 +2919,124 @@
         },
         "previousepisode": {
           "href": "https://api.tvmaze.com/episodes/2403452"
+        }
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "id": 30770,
+      "url": "https://www.tvmaze.com/shows/30770/chernobyl",
+      "name": "Chernobyl",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 70,
+      "premiered": "2019-05-06",
+      "ended": "2019-06-03",
+      "officialSite": "https://www.hbo.com/chernobyl",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Monday"
+        ]
+      },
+      "rating": {
+        "average": 9
+      },
+      "weight": 96,
+      "network": {
+        "id": 8,
+        "name": "HBO",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.hbo.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 360893,
+        "imdb": "tt7366338"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/193/482599.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/193/482599.jpg"
+      },
+      "summary": "<p><b>Chernobyl</b> dramatizes the true story of one of the worst man-made catastrophes in history and tells of the brave men and women who sacrificed to save Europe from unimaginable disaster. The miniseries focuses on the heartbreaking scope of the nuclear plant disaster that occurred in Ukraine in April 1986, revealing how and why it happened and telling the shocking, remarkable stories of the heroes who fought and fell.</p>",
+      "updated": 1657658077,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/30770"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1634384"
+        }
+      }
+    },
+    {
+      "id": 474,
+      "url": "https://www.tvmaze.com/shows/474/charlies-angels",
+      "name": "Charlie's Angels",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1976-09-22",
+      "ended": "1981-06-24",
+      "officialSite": null,
+      "schedule": {
+        "time": "20:00",
+        "days": [
+          "Wednesday"
+        ]
+      },
+      "rating": {
+        "average": 7.6
+      },
+      "weight": 93,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": 3034,
+        "thetvdb": 77170,
+        "imdb": "tt0073972"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/396/992156.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/992156.jpg"
+      },
+      "summary": "<p>Once upon a time, Jill, Sabrina and Kelly were police officers whose skills were being wasted in menial duties such as answering phones and filing. A mysterious millionaire named Charles Townsend took them away from all that by opening his own private investigation agency and hiring these gorgeous ladies as his operatives with John Bosley acting as their assistant and liaison.</p>",
+      "updated": 1654148987,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/474"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/43423"
         }
       }
     }
